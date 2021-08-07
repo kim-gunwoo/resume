@@ -9,6 +9,12 @@
 
 사용자가보다 편안한 사용감을 개발자에게는 좀 더 깔끔하고 보기좋은 코드를 좋아하는 프론트엔드 개발자 입니다.
 
+## 사용
+
+- Front : HTML, CSS, JavaScript, React, Sass, StyledComponents
+- Back : Java, Spring, Oracle, SQL
+- Etc : Git, SVN
+
 ## 정보
 
 - Email : kgunu93@gmail.com
