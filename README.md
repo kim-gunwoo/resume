@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+# 이력서
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 소개
 
-## Available Scripts
+- **김건우**
+- 생년월일 : 93.06.26.
+- 경기도 수원
+- 프론트엔드 개발자
 
-In the project directory, you can run:
+사용자가보다 편안한 사용감을 개발자에게는 좀 더 깔끔하고 보기좋은 코드를 좋아하는 프론트엔드 개발자 입니다.
 
-### `yarn start`
+## 정보
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Email : kgunu93@gmail.com
+- Blog : https://velog.io/@gunu
+- GitHub : https://github.com/kim-gunwoo
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 기술
 
-### `yarn test`
+- React, React-Hooks, React Router
+- Sass, Styled-Components
+- Git, Html/Css, JavaScript
+- Java, Spring, Oracle, SQL, Svn
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 경력
 
-### `yarn build`
+소프트웨어엔지니어
+크리스피드 | 2017.09 ~ 2021.04
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- 경영정보 시스템 유지보수 및 기능개선 고도화 업무를 진행
+- 다양한 경영정보 시스템 서비스를 전담하여 고객과의 커뮤니케이션을 통해 시스템을 개선
+- 유연근무 시스템, 초과 근무 급여명세연계 관리등 개발업무를 진행
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 프로젝트
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [가나다방](https://github.com/kim-gunwoo/21-2nd-GanadaBang-frontend)
 
-### `yarn eject`
+  - 다방을 모티브로 하여 Git 과 GitHub을 통한 프로젝트 관리
+  - CRA를 통해 프로젝트 초기세팅을 진행
+  - React, React-Hooks, React Router, Styled-Components 를 사용하여 구현
+  - Trello, Slack 을 이용한 협업 및 일정관리를 하였습니다.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [선릉비어](https://github.com/kim-gunwoo/21-1st-seolleungbeer-frontend)
+  - 제주맥주를 모티브로 하여 Git 과 GitHub을 통한 프로젝트 관리
+  - CRA를 통해 프로젝트 초기세팅을 진행
+  - React, React Router, Sass 를 사용하여 구현
+  - Trello, Slack 을 이용한 협업 및 일정관리를 하였습니다.
