@@ -15,6 +15,9 @@ export default function SelInfo() {
         </ImageWrapper>
         <Title>김건우 </Title>
         <SelfArticle>안녕하세요.</SelfArticle>
+        <SelfArticle>
+          <StyleFont>깔끔한 코드를 만들자 !</StyleFont>
+        </SelfArticle>
         <SelfArticle>프론트엔드 개발자 김건우 입니다.</SelfArticle>
         <SelfArticle>
           사용자가 더욱 편안한 사용감을 개발자에게는 좀 더 깔끔하고 보기 좋은
@@ -78,4 +81,9 @@ const Container = styled.div`
 const ImageWrapper = styled.div`
   display: flex;
   justify-content: center;
+`;
+
+const StyleFont = styled.i`
+  color: #3b7bd5;
+  font-weight: 700;
 `;

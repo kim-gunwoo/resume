@@ -12,11 +12,8 @@ export default function Skill() {
           <li>CSS, Sass, Styled-components 스타일링을 사용 할 수 있습니다..</li>
           <li>JavaScript ES6+ 표준 스펙을 활용해 개발을 합니다.</li>
           <li>
-            React
+            React CRA를 사용하여 프로젝트 초기 설정과 구조를 만들수 있습니다.
             <ul>
-              <li>
-                CRA를 사용하여 프로젝트 초기 설정과 구조를 만들수 있습니다.
-              </li>
               <li>
                 함수형 컴포넌트와 hooks, class형 컴포넌트 모두를 사용할 수
                 있으며 컴포넌트 라이프 사이클에 대해 이해하고 이를 적용할 수
@@ -33,9 +30,8 @@ export default function Skill() {
             할 수 있습니다.
           </li>
           <li>
-            RDBMS Oracle 실무 경험을 했으며 데이터모델링 경험과 함수, 패키지,
-            프로시져, 잡 등 사용할 수 있으며 쿼리 작성을 능숙하게 할 수
-            있습니다.
+            RDBMS Oracle 실무 경험을 했으며 데이터모델링 경험과 함수, 프로시져,
+            등 사용할 수 있으며 쿼리 작성을 능숙하게 할 수 있습니다.
           </li>
           <li>
             Git 의 작동 원리를 이해하고 깃 플로우에 맞춰 rebase, reset 등 명령어
