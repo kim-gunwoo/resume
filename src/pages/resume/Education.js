@@ -13,6 +13,9 @@ export default function Experience() {
         진행 휠체어 코리아 닷컴 리뉴얼 작업에 참여
         <ArticleTitle>대덕인재개발원 | 2017.01 ~ 2017.07</ArticleTitle>
         JAVA, Spring 프레임워크 관련 수업 및 프로젝트 진행
+        <ArticleTitle>한남대학교 | 멀티미디어공학</ArticleTitle>
+        4년간 공부하며 컴퓨터구조, 자료구조, 컴퓨터네트워크, C++, Java, Linux 등
+        교육이수
       </Article>
     </Container>
   );

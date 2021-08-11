@@ -2,6 +2,7 @@ import styled from "styled-components";
 import SelfInfo from "pages/resume/SelfInfo";
 import Use from "pages/resume/Use";
 import Skill from "pages/resume/Skill";
+import Certificate from "pages/resume/Certificate";
 import Experience from "pages/resume/Experience";
 import Education from "pages/resume/Education";
 import Project from "pages/resume/Project";
@@ -12,6 +13,7 @@ export default function Recume() {
       <LeftSection>
         <SelfInfo />
         <Use />
+        {/* <Certificate /> */}
       </LeftSection>
       <Section>
         <Skill />
@@ -25,7 +27,7 @@ export default function Recume() {
 
 const Container = styled.div`
   /* @media (min-width: 960px) { */
-  display: flex;
+  /* display: flex; */
   /* } */
   margin: 0 auto;
   max-width: 1200px;

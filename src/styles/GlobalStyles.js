@@ -8,7 +8,7 @@ const GlobalStyles = createGlobalStyle`
   }
   html,body {
     font-family: Spoqa Han Sans,sans-serif;
-    font-size: 10px;
+    font-size: 11px;
     line-height: 1.9;
     font-weight: 500;
   }

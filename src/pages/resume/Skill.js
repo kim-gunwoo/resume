@@ -1,6 +1,7 @@
 import styled from "styled-components";
 import SubTitle from "components/SubTitle";
 import Article from "components/Article";
+import StyleFont from "components/StyleFont";
 
 export default function Skill() {
   return (
@@ -9,10 +10,17 @@ export default function Skill() {
         <SubTitle>Skill</SubTitle>
         <ul>
           <li>HTML 웹 표준 시맨틱 마크업을 준수하여 개발 할 수 있습니다.</li>
-          <li>CSS, Sass, Styled-components 스타일링을 사용 할 수 있습니다..</li>
-          <li>JavaScript ES6+ 표준 스펙을 활용해 개발을 합니다.</li>
           <li>
-            React CRA를 사용하여 프로젝트 초기 설정과 구조를 만들수 있습니다.
+            <StyleFont>CSS, Sass, Styled-components</StyleFont> 스타일링을 사용
+            할 수 있습니다..
+          </li>
+          <li>
+            <StyleFont>JavaScript ES6+</StyleFont> 표준 스펙을 활용해 개발을
+            합니다.
+          </li>
+          <li>
+            <StyleFont>React CRA</StyleFont>를 사용하여 프로젝트 초기 설정과
+            구조를 만들수 있습니다.
             <ul>
               <li>
                 함수형 컴포넌트와 hooks, class형 컴포넌트 모두를 사용할 수

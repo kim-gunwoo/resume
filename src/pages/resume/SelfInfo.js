@@ -4,6 +4,7 @@ import SubTitle from "components/SubTitle";
 import Article from "components/Article";
 import SelfArticle from "components/SelfArticle";
 import SelfImage from "components/SelfImage";
+import StyleFont from "components/StyleFont";
 import me from "assets/image/me.png";
 
 export default function SelInfo() {
@@ -26,10 +27,9 @@ export default function SelInfo() {
       </Article>
       <Article>
         <SubTitle>About Me </SubTitle>
-        <p>생년월일 : 93.06.26.</p>
-        <p>경기도 수원시</p>
         <p>프론트엔드 개발자</p>
         <p>한남대 멀티미디어공학 졸업</p>
+        <p>정보처리기사</p>
         <table>
           <tbody>
             <tr>
@@ -81,9 +81,4 @@ const Container = styled.div`
 const ImageWrapper = styled.div`
   display: flex;
   justify-content: center;
-`;
-
-const StyleFont = styled.i`
-  color: #3b7bd5;
-  font-weight: 700;
 `;
